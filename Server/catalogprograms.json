@@ -1,0 +1,40 @@
+{
+    "Programs": {
+        "Java": {
+            "name": "Java",
+            "icon": "Server/iconscatalog/java.png"
+        },
+        "PHP": {
+            "name": "PHP",
+            "icon": "Server/iconscatalog/php.png"
+        },
+        "JavaScript": {
+            "name": "JavaScript",
+            "icon": "Server/iconscatalog/javascript.png"
+        },
+        "C#": {
+            "name": "C#",
+            "icon": "Server/iconscatalog/csharp.png"
+        },
+        "1C": {
+            "name": "1C",
+            "icon": "Server/iconscatalog/1C.png"
+        },
+        "HTML": {
+            "name": "HTML",
+            "icon": "Server/iconscatalog/html.png"
+        },
+        "CSS": {
+            "name": "CSS",
+            "icon": "Server/iconscatalog/css.png"
+        },
+        "Microsoft Access": {
+            "name": "Microsoft Access",
+            "icon": "Server/iconscatalog/access.png"
+        },
+        "SQL": {
+            "name": "SQL",
+            "icon": "Server/iconscatalog/sql.png"
+        }
+    }
+}
